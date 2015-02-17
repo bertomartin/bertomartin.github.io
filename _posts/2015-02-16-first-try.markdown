@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "First try at Jekyll"
+date:   2015-02-16
+---
+
+I'm just trying this out. Time to start posting some charts.
