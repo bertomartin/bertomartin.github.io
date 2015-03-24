@@ -5,6 +5,7 @@ date:   2015-03-22
 image: /images/empire.png
 blurb: "Too much bling in this chart"
 ---
+This graph shows the viewership of the TV series Empire for 12 episodes in season 1
 
 [from dataviz.com](http://dadaviz.com/i/3647)
 
@@ -14,5 +15,7 @@ blurb: "Too much bling in this chart"
 * Ink to information ratio very large here (lots of ink for saying very little)
 * Missing clear axes, so it's hard to make sense of the numbers (what are they relative to, where's 0?)
 * x-axis not labeled clearly. S1E1, S1E2, etc...
+* better legend needed
 
-There's just too much bling on this chart
+## A better chart
+![Empire viewership chart](/images/empire2.png){: .center-image }
