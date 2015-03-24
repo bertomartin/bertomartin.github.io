@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Bad Charts #2"
+title:  "World leaders salaries"
 date:   2015-03-21
+image: /images/sallaries.png
+blurb: "Heads of heads of states on charts, what could go wrong"
 ---
 
-## Salaries of world leaders
 [from dataviz.com](http://dadaviz.com/i/3642)
 
 ![World leaders salaries](/images/sallaries.png)

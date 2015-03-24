@@ -50,3 +50,18 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+//my styles
+.post-list li{
+  border: 1px solid #ccc;
+  overflow: auto;
+  width: 100%;
+  padding: 5px;
+}
+.thumbnail{
+  width: 200px;
+  height: 150px;
+  float:left;
+  clear: left;
+  display: block; margin-right: 20px;
+}

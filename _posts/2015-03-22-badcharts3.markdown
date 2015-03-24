@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Bad Charts #3"
+title:  "The disappearing sea"
 date:   2015-03-22
+image: /images/thedeadsea.png
+blurb: "Doesn't take a sea of ink to make a point"
 ---
 
-## The shrinkage of the Dead Sea
 [from dataviz.com](http://dadaviz.com/i/3071)
 
 ![The Dead Sea](/images/thedeadsea.png)
 
 * Ink to information ratio very large here
-* KM2 is confusing. It should probably be written out as Kilometers-Squared.
+* Confusing legend, KM2. It should probably be written out as Kilometers-Squared.
 * The number 690 is just hanging out at the top of the chart. There should be a connecting axis

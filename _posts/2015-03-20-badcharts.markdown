@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Bad Charts #1"
+title:  "Where the 114th U.S Senate went to college"
 date:   2015-03-20
+image: /images/college114senate.png
+blurb: "Doesn't take an expert to tell what's wrong here"
 ---
 
-## Where the 114th U.S Senate went to college
 [from dataviz.com](http://dadaviz.com/i/3071)
 
 ![US 114th Senate](/images/college114senate.png)

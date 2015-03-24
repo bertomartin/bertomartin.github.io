@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Bad Charts #4"
+title:  "Empire viewership"
 date:   2015-03-22
+image: /images/empire.png
+blurb: "Too much bling in this chart"
 ---
 
-## Empire viewership
 [from dataviz.com](http://dadaviz.com/i/3647)
 
-![Empire](/images/empire.png)
+![Empire viewership chart](/images/empire.png){: .center-image }
 
 
 * Ink to information ratio very large here (lots of ink for saying very little)
