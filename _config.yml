@@ -1,15 +1,14 @@
 # Site settings
-title: Data Visualization
+title: Roberto's Data Visualization
 tagline: Exploratory Data Analysis and Visualization
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-email: myemail@me.com
+email: roberto@me.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is cool
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://bertomartin.github.io" # the base hostname & protocol for your site
+twitter_username: bertobully
+github_username:  bertomartin
 
 # Build settings
 markdown: kramdown

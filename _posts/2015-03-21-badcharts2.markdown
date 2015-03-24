@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Bad Charts #2"
+date:   2015-03-21
+---
+
+## Salaries of world leaders
+[from dataviz.com](http://dadaviz.com/i/3642)
+
+![World leaders salaries](/images/sallaries.png)
+
+* Heads on the charts are completely unnecessary
+* Flags on the left are also not needed.

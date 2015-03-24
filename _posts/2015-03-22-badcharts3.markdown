@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Bad Charts #3"
+date:   2015-03-22
+---
+
+## The shrinkage of the Dead Sea
+[from dataviz.com](http://dadaviz.com/i/3071)
+
+![The Dead Sea](/images/thedeadsea.png)
+
+* Ink to information ratio very large here
+* KM2 is confusing. It should probably be written out as Kilometers-Squared.
+* The number 690 is just hanging out at the top of the chart. There should be a connecting axis

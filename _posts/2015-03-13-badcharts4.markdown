@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Bad Charts #4"
+date:   2015-03-22
+---
+
+## Empire viewership
+[from dataviz.com](http://dadaviz.com/i/3647)
+
+![Empire](/images/empire.png)
+
+
+* Ink to information ratio very large here (lots of ink for saying very little)
+* Missing clear axes, so it's hard to make sense of the numbers (what are they relative to, where's 0?)
+* x-axis not labeled clearly. S1E1, S1E2, etc...
+
+There's just too much bling on this chart
