@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Empire viewership"
+title:  "Empire viewership: Critique"
 date:   2015-03-22
 image: /images/empire.png
 blurb: "Too much bling in this chart"
