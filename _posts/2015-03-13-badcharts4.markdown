@@ -9,6 +9,8 @@ This graph shows the viewership of the TV series Empire for 12 episodes in seaso
 
 [from dataviz.com](http://dadaviz.com/i/3647)
 
+[IMDb page](http://www.imdb.com/title/tt3228904/)
+
 ![Empire viewership chart](/images/empire.png){: .center-image }
 
 
