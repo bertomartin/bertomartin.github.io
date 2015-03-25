@@ -22,15 +22,16 @@ This graph shows the viewership of the TV series Empire for 12 episodes in seaso
 ### bar chart
 ![Empire viewership chart](/images/empire2.png){: .center-image }
 
-```
+{% highlight text %}
 library(ggplot2)
 dat <- data.frame(
   episodes = factor(c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"), levels=c("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12")),
   viewership = c(9.9, 10.32, 11.07, 11.36, 11.47, 11.96, 13.02, 13.9, 14.33, 14.9, 15.82, 17.62)
   )
-```
+{% endhighlight %}
 
-```
+
+{% highlight text %}
 ggplot(data=dat, aes(x=episodes, y=viewership)) +
   geom_bar(stat="identity", width=.6, fill="#DD8888") +
   geom_text(aes(label=viewership), vjust=1.5) +
@@ -38,12 +39,12 @@ ggplot(data=dat, aes(x=episodes, y=viewership)) +
   scale_fill_grey() +
   xlab("Episodes") + ylab("Viewership (in millions)") +
   ggtitle("Empire: Viewership by Episodes, season 1")
-```
+{% endhighlight %}
 
 ### line chart
 ![Empire viewership chart](/images/empire3.png){: .center-image }
 
-```
+{% highlight text %}
 ggplot(data=dat, aes(x=episodes, y=viewership, group=1)) +
   geom_line(colour="#DD8888", size=1.5) +
   geom_point(colour="black", size=4, shape=21, fill="white") +
@@ -52,6 +53,6 @@ ggplot(data=dat, aes(x=episodes, y=viewership, group=1)) +
   guides(fill=FALSE) +
   xlab("Episodes") + ylab("Viewership (in millions)") +
   ggtitle("Empire: Viewership by Episodes, season 1")
-```
+{% endhighlight %}
 
 
